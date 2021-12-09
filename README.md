@@ -16,8 +16,9 @@
 <a href="https://www.linkedin.com/in/davi-nascimento-de-jesus" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
+
 <div>
 <a href="https://github.com/nDavii">
-<img height="160em" width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nDavii&layout=compact&langs_count=7&theme=dracula"/>
-<img height="160em" width="300em" src="https://github-readme-stats.vercel.app/api?username=nDavii&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="160em" width="360em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nDavii&layout=compact&langs_count=7&theme=dracula"/>
+<img height="160em" width="360em" src="https://github-readme-stats.vercel.app/api?username=nDavii&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
