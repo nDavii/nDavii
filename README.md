@@ -8,20 +8,29 @@
 
 ## Aprendendo, no momento: 
 <div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="5%" height="5%"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="5%" height="5%"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="5%" height="5%" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="5%" height="5%" />
 </div>
-
+<br>
+<br>
+<br>
+<div align="center">
+  <div style="display: flex;">
+    <a href="https://github.com/nDavii">
+    <img height="160em" width="430em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nDavii&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="160em" width="430em" src="https://github-readme-stats.vercel.app/api?username=nDavii&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  </div>
+</div>
+<br>
+  
 ## Contatos:
 <div>
 <a href = "mailto:ndaviix@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/davi-nascimento-de-jesus" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
+<br>
+  
+![Snake animation](https://github.com/nDavii/nDavii/blob/output/github-contribution-grid-snake.svg)
+  
 
-
-<div>
-<a href="https://github.com/nDavii">
-<img height="160em" width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nDavii&layout=compact&langs_count=7&theme=dracula"/>
-<img height="160em" width="420em" src="https://github-readme-stats.vercel.app/api?username=nDavii&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
