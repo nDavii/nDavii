@@ -1,8 +1,8 @@
 # 🗨 Hey! Be Welcome!! I'm Davi! 🔎
 ### • 📋 | Sobre mim:
 * 👦🏽 | Tenho 15 anos e, atualmente, curso o primeiro ano do ensino médio regular.
-* 🖥 | Estudante de Programação:
-- Participante do **_#OTechTáOn_**, onde além de aprender as competências técnicas da programação, desenvolvo _Soft Skills_ essenciais para o crescimento social e profissional.
+* 🖥 | Estudante de Programação:<br>
+• Participante do **_#OTechTáOn_**, onde além de aprender as competências técnicas da programação, desenvolvo _Soft Skills_ essenciais para o crescimento social e profissional.
 * 💻 | Jovem cientista pesquisador na área de Linguística Aplicada.
 * 🗂 | Técnico em Assistente Administrativo pelo SENAI.
 
@@ -22,6 +22,6 @@
 
 <div>
 <a href="https://github.com/nDavii">
-<img height="160em" width="360em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nDavii&layout=compact&langs_count=7&theme=dracula"/>
-<img height="160em" width="360em" src="https://github-readme-stats.vercel.app/api?username=nDavii&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="160em" width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nDavii&layout=compact&langs_count=7&theme=dracula"/>
+<img height="160em" width="420em" src="https://github-readme-stats.vercel.app/api?username=nDavii&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
