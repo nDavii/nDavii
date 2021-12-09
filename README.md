@@ -1,7 +1,10 @@
 # 🗨 Hey! Be Welcome!! I'm Davi! 🔎
 ### • 📋 | Sobre mim:
 * 👦🏽 | Tenho 15 anos e, atualmente, curso o primeiro ano do ensino médio regular.
-* 💻 | Estudo **Programação** e desenvolvo **Soft Skills**, por intermédio do Programa _**#OTechTáOn**_.
+* 🖥 | Estudante de Programação:
+- Participante do **_#OTechTáOn_**, onde além de aprender as competências técnicas da programação, desenvolvo _Soft Skills_ essenciais para o crescimento social e profissional.
+* 💻 | Jovem cientista pesquisador na área de Linguística Aplicada.
+* 🗂 | Técnico em Assistente Administrativo pelo SENAI.
 
 ## Aprendendo, no momento: 
 <div>
